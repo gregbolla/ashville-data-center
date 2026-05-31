@@ -12,7 +12,11 @@ In the beginning of 2026, the Ashville, Ohio Village Council was in a precarious
 
 On February 18, 2026, in response to the inspection, the Ohio EPA issued a Notice of Violation to the Ashville Council, instructing the Village to respond within 30 days with a plan to remedy the violations.
 
-Eight days later, on February 26, 2026, the Village came to terms on an agreement with the global data center developer EdgeConneX to build a data center roughly a mile from the high school football stadium. The contract between the Company and the Village, known as a Development and Supply Agreement, included a $35M payment from EdgeConneX to Ashville for the EPA-mandated water infrastructure improvements.
+Eight days later, on February 26, 2026, the Village came to terms on an agreement with the global data center developer EdgeConneX to build a data center roughly a mile from the high school football stadium - on a 195-acre plot bordered to the north by Weigand Road and to the south by SR 752. 
+
+The contract between the Company and the Village, known as a Development and Supply Agreement, included a $35M payment from EdgeConneX to Ashville for the EPA-mandated water infrastructure improvements.
+
+#### AI-generated content below (Replace with Human-content by Weds, June 3)
 
 The timing is not a coincidence. The Village had no backup well, was facing EPA enforcement action, and had no money to fix it. EdgeConneX arrived with $35 million earmarked for exactly those improvements. Six weeks later, on April 6, 2026, the Council voted 5-1 to approve the deal — declaring it an emergency measure, a procedural step that allowed it to take effect immediately rather than being subject to a 30-day waiting period.
 
